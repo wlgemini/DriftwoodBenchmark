@@ -1,2 +1,2 @@
 # DriftwoodBenchmark
-make benchmark for Driftwood
+Benchmark for Driftwood
