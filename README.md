@@ -17,7 +17,8 @@ Driftwood make:
 > 1.84918905 seconds (avg)
 
 
-Snap duration:
+SnapKit duration:
+
 - 5.599442572 seconds
 - 5.562288175 seconds
 - 5.678353565 seconds
@@ -38,7 +39,7 @@ Driftwood remake:
 
 > 1.34457049 seconds (avg)
 
-Snap remake: 
+SnapKit remake: 
 
 - 6.4685965 seconds
 - 6.4034365 seconds
