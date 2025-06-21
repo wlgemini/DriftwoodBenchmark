@@ -24,9 +24,9 @@ Snap duration:
 
 > 5.61336144 seconds (avg)
 
-
-$\frac{Driftwood}{SnapKit}=\frac{1.849s}{5.613s}=32.94\%$
-
+$$
+\frac{Driftwood}{SnapKit}=\frac{1.849s}{5.613s}=32.94\%
+$$
 
 ## Remake Constraints
 
@@ -46,5 +46,6 @@ Snap remake:
 
 > 6.43748775 seconds (avg)
 
-
-$\frac{Driftwood}{SnapKit}=\frac{1.344s}{6.437s}=20.89\%$
+$$
+\frac{Driftwood}{SnapKit}=\frac{1.344s}{6.437s}=20.89\%
+$$
