@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "driftwood",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wlgemini/Driftwood.git",
+      "state" : {
+        "revision" : "953363ffe7aad83be62a7c8f68874ccb382c5cd8",
+        "version" : "5.3.4"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit.git",
+      "state" : {
+        "revision" : "2842e6e84e82eb9a8dac0100ca90d9444b0307f4",
+        "version" : "5.7.1"
+      }
+    }
+  ],
+  "version" : 2
+}
