@@ -9,10 +9,10 @@ let package = Package(
         .macOS(.v13)
     ],
     products: [
-        .executable(name: "DriftwoodBenchmark", targets: ["DriftwoodBenchmark"]),
+        .library(name: "DriftwoodBenchmark", targets: ["DriftwoodBenchmark"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/wlgemini/Driftwood.git", .upToNextMajor(from: "5.3.4")),
+        .package(url: "https://github.com/wlgemini/Driftwood.git", .upToNextMajor(from: "5.8.0")),
         .package(url: "https://github.com/SnapKit/SnapKit.git", .upToNextMajor(from: "5.7.1"))
     ],
     targets: [

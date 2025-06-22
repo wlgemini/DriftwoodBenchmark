@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/wlgemini/Driftwood.git",
       "state" : {
-        "revision" : "953363ffe7aad83be62a7c8f68874ccb382c5cd8",
-        "version" : "5.3.4"
+        "revision" : "d0befdb83eb6ece57a819d79da6f7f00b7ddbdef",
+        "version" : "5.8.0"
       }
     },
     {
